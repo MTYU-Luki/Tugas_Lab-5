@@ -1,0 +1,26 @@
+C:\Users\MTYU\source\repos\Tugas_Lab-5\Tugas_Lab-5\bin\Debug\netcoreapp3.1\Tugas_Lab-5.exe
+C:\Users\MTYU\source\repos\Tugas_Lab-5\Tugas_Lab-5\bin\Debug\netcoreapp3.1\Tugas_Lab-5.deps.json
+C:\Users\MTYU\source\repos\Tugas_Lab-5\Tugas_Lab-5\bin\Debug\netcoreapp3.1\Tugas_Lab-5.runtimeconfig.json
+C:\Users\MTYU\source\repos\Tugas_Lab-5\Tugas_Lab-5\bin\Debug\netcoreapp3.1\Tugas_Lab-5.runtimeconfig.dev.json
+C:\Users\MTYU\source\repos\Tugas_Lab-5\Tugas_Lab-5\bin\Debug\netcoreapp3.1\Tugas_Lab-5.dll
+C:\Users\MTYU\source\repos\Tugas_Lab-5\Tugas_Lab-5\bin\Debug\netcoreapp3.1\Tugas_Lab-5.pdb
+C:\Users\MTYU\source\repos\Tugas_Lab-5\Tugas_Lab-5\obj\Debug\netcoreapp3.1\Tugas_Lab-5.csprojAssemblyReference.cache
+C:\Users\MTYU\source\repos\Tugas_Lab-5\Tugas_Lab-5\obj\Debug\netcoreapp3.1\Tugas_Lab-5.csproj.CoreCompileInputs.cache
+C:\Users\MTYU\source\repos\Tugas_Lab-5\Tugas_Lab-5\obj\Debug\netcoreapp3.1\Tugas_Lab-5.AssemblyInfoInputs.cache
+C:\Users\MTYU\source\repos\Tugas_Lab-5\Tugas_Lab-5\obj\Debug\netcoreapp3.1\Tugas_Lab-5.AssemblyInfo.cs
+C:\Users\MTYU\source\repos\Tugas_Lab-5\Tugas_Lab-5\obj\Debug\netcoreapp3.1\Tugas_Lab-5.dll
+C:\Users\MTYU\source\repos\Tugas_Lab-5\Tugas_Lab-5\obj\Debug\netcoreapp3.1\Tugas_Lab-5.pdb
+C:\Users\MTYU\source\repos\Tugas_Lab-5\Tugas_Lab-5\obj\Debug\netcoreapp3.1\Tugas_Lab-5.genruntimeconfig.cache
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-5\Tugas_Lab-5\bin\Debug\netcoreapp3.1\Tugas_Lab-5.exe
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-5\Tugas_Lab-5\bin\Debug\netcoreapp3.1\Tugas_Lab-5.deps.json
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-5\Tugas_Lab-5\bin\Debug\netcoreapp3.1\Tugas_Lab-5.runtimeconfig.json
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-5\Tugas_Lab-5\bin\Debug\netcoreapp3.1\Tugas_Lab-5.runtimeconfig.dev.json
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-5\Tugas_Lab-5\bin\Debug\netcoreapp3.1\Tugas_Lab-5.dll
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-5\Tugas_Lab-5\bin\Debug\netcoreapp3.1\Tugas_Lab-5.pdb
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-5\Tugas_Lab-5\obj\Debug\netcoreapp3.1\Tugas_Lab-5.csprojAssemblyReference.cache
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-5\Tugas_Lab-5\obj\Debug\netcoreapp3.1\Tugas_Lab-5.csproj.CoreCompileInputs.cache
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-5\Tugas_Lab-5\obj\Debug\netcoreapp3.1\Tugas_Lab-5.AssemblyInfoInputs.cache
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-5\Tugas_Lab-5\obj\Debug\netcoreapp3.1\Tugas_Lab-5.AssemblyInfo.cs
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-5\Tugas_Lab-5\obj\Debug\netcoreapp3.1\Tugas_Lab-5.dll
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-5\Tugas_Lab-5\obj\Debug\netcoreapp3.1\Tugas_Lab-5.pdb
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-5\Tugas_Lab-5\obj\Debug\netcoreapp3.1\Tugas_Lab-5.genruntimeconfig.cache
